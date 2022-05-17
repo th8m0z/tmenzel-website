@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'Thomas Menzel',
+  title: 'Notes about the matrix',
   author: 'Thomas Menzel',
-  email: 'thomas@proddy.app',
+  email: 'tprojectacc@gmail.com',
   link: 'thomasmz.com',
-  description: 'Geldwechselproblem lösen',
+  description: '',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
